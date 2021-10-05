@@ -1,0 +1,90 @@
+@font-face{
+  font-family: "NuevaFuente";
+  src: url('static/rokkitt-black.ttf');
+}
+
+
+h1 {
+  font-family: "NuevaFuente";
+  color: black;
+}
+body {
+  background-color: black;
+}
+
+.navegador {
+  font-family: "NuevaFuente";
+}
+
+.titulo_huerfanos{
+  background-color: white;
+  h2 {
+    font-family: "NuevaFuente";
+    color: brown;
+  }
+  padding-bottom: 10px
+}
+.carrusel {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  h5 {
+    font-family: "NuevaFuente";
+    color: gold;
+    font-size: 40px;
+  }
+  p {
+      font-family: "NuevaFuente";
+      color: gold;
+      font-size: 20px;
+    }
+}
+
+.footer_index {
+  p { color: brown;
+    font-family: "NuevaFuente";
+
+  }
+  h5 {
+    color: brown;
+    font-family: "NuevaFuente";
+
+  }
+}
+
+.Cards {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer_contacto {
+  h4 {
+    font-family: "NuevaFuente";
+    color: brown;
+  }
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer_contacto_2 {
+  h4 {
+    font-family: "NuevaFuente";
+    color: brown;
+  }
+}
+
+.body_index {
+  h2 {
+    font-family: "NuevaFuente";
+    color: brown;
+  }
+}
+
+.end {
+  font-family: "NuevaFuente";
+  color: brown;
+}
+
+.card_index {
+  font-family: "NuevaFuente";
+  color: gold;
+}
